@@ -1,4 +1,4 @@
-# 🎨 AdSnap Studio
+# 🎨 ai-image-generator-app
 
 A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs.
 
@@ -68,7 +68,9 @@ The app supports various configuration options through the UI:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Apache License 2.0](LICENSE © 2025 Joyprakash Kalita).
+See the [LICENSE](LICENSE) file for details.
+
 
 ## 🙏 Acknowledgments
 
