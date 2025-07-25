@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+.MACOSX/
+
+# Python egg info
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# IDE folders
+.idea/
+
+# Pip wheel files
+*.whl
+
+# Local package installs
+*.egg-info/
+.installed.cfg
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+.hypothesis/
+
+# pyright / pylance
+pyrightconfig.json
