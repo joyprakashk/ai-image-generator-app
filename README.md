@@ -4,20 +4,20 @@ A powerful Streamlit app for generating professional product ads using Bria AI's
 
 ## 🌟 Features
 
-- 🖼️ Generate HD product images from text prompts
-- 🎯 Remove backgrounds with custom colors
-- 🌅 Add realistic shadows
-- 🏠 Create lifestyle shots with text or reference images
-- ✨ AI-powered prompt enhancement
-- 📝 Optional CTA text overlay
-- 🎮 Intuitive UI controls
-- 💾 Easy image download
+- Generate HD product images from text prompts
+- Remove backgrounds with custom colors
+- Add realistic shadows
+- Create lifestyle shots with text or reference images
+- AI-powered prompt enhancement
+- Optional CTA text overlay
+- Intuitive UI controls
+- Easy image download
 
 ## 🚀 Quick Start
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/adsnap-studio.git
+git clone https://github.com/joyprakashk/ai-image-generator-app.git
 cd adsnap-studio
 ```
 
@@ -68,7 +68,7 @@ The app supports various configuration options through the UI:
 
 ## 📝 License
 
-This project is licensed under the [Apache License 2.0](LICENSE © 2025 Joyprakash Kalita).
+This project is licensed under the [Apache License 2.0] (LICENSE © 2025 Joyprakash Kalita).
 See the [LICENSE](LICENSE) file for details.
 
 
